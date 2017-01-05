@@ -4,35 +4,12 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 
 ## Adrian
 
-- Ryan Brophy
-- Angelo Brown
-- Barrett	Cope
-- Andres Espinoza
-- Elizabeth Floyd
-- Tim Foley
-- Domonique	Griffin
-- Ian	Hollands
-- Chris	Jaffier
+## Angel
 
-## Nick
+## Andrew
 
-- Billy	Keating
-- Poh Chuan Kuan
-- Michael	Lai
-- Khoi Le
-- Mariana	Lungu
-- Kevin Mahoney
-- Alexander	Manno
-- Nicholas Oki
+## Erik
 
-## Jesse
+## James
 
-- Doray	Owens
-- Manish Pradhan
-- Michael Flores
-- Michael	Rubin
-- Dominique	Simmons
-- Alexander Spottswood
-- Mark Sweet
-- Latoya Watson
-- Andrew Whitley
+## Nayana

@@ -24,7 +24,7 @@ If you do arrive late, we'll ask that you not enter the classrooms until they go
 
 ![View on log-in](http://i.imgur.com/zOuHGdS.png)
 
-### 2. Click the name of your current cohort. In this case, that's "WDI12". You'll see this:
+### 2. Click the name of your current cohort. In this case, that's "WDI14". You'll see this:
 
 ![Check-in button](http://imgur.com/6HFj8lq.png)
 
