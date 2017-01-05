@@ -6,9 +6,9 @@ You can always ask any instructor any question over the course of the day. Slack
 An instructor will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15 minute meetings by appointment. Please use the links below to schedule an appointment with an instructor.
 
 #### Sign-Up Links
-- [Nick (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M)
-- [Adrian (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU)
-- [Jesse (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE)
+- [Instructor Name (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M)
+- [Instructor Namen (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU)
+- [Instructor Name (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE)
 
 One-on-Ones are a safe space to talk about literally anything. Topics might include:
 - Code review
@@ -21,7 +21,7 @@ One-on-Ones are a safe space to talk about literally anything. Topics might incl
 
 If your question is **non-technical** -- you're feeling overwhelmed, or you have questions about a homework or project prompt -- **please reach out directly to an instructor as soon as possible**.
 
-**After 6pm**, aside from evening [office hours](office-hours.md), instructors may not be able to respond to technical questions until the following morning.
+**After 6pm**, aside from evening office hours, instructors may not be able to respond to technical questions until the following morning.
 
 ##Open Office Hours
 
@@ -29,7 +29,7 @@ Open office hours are generally from...
 - 1:30PM to 2:30PM on Monday, Tuesday and Wednesday
 - 6:00PM to 8:00PM on Monday, Tuesday and Wednesday.
 
-The format is informal, the instructors "on duty" will send an announcement on slack and hang out by the student work area. If you get stuck, you can wander over and ask them a question, following the [guidelines on asking for help](asking-for-help.md).
+The format is informal, the instructors "on duty" will send an announcement on slack and hang out by the student work area. If you get stuck, you can wander over and ask them a question, following the guidelines on asking for help.
 
 You are strongly encouraged to use this time to also work with fellow students on assignments and projects.
 
@@ -55,8 +55,6 @@ ___ happened instead.
 My repo link is ___ and my question is about lines ___.
 ```
 
-[Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.)
-
 *Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 30 minutes without any updates.
 
 **Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
@@ -69,7 +67,7 @@ Additionally, having to articulate the question into words is very helpful in un
 
 ### How?
 
-Below is a guide for the information that must be included when submitting an issue. (You can also use the handy [template](https://github.com/ga-dc/project2/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.) above.) It is expected that you will try to debug/solve an issue prior to submitting a request for help on Github.
+Below is a guide for the information that must be included when submitting an issue. (You can also use this handy [template](https://github.com/ga-dc/project2/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.).) It is expected that you will try to debug/solve an issue prior to submitting a request for help on Github.
 
 #### Context
 
