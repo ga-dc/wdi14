@@ -1,12 +1,27 @@
 # Asking For Help
 
-## During Normal Weeks
+You can always ask any instructor any question over the course of the day. Slack is the most effective way to communicate with instructors.
 
-Please make sure to read the [One on Ones guidelines](one-on-ones.md)!
+##One-on-Ones
+An instructor will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15-minute meetings by appointment.
 
-Outside of One on Ones, you can always ask any instructor any question over the course of the day. Slack is the most effective way to communicate with instructors.
+#### Sign-Up Links
+- [Nick (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M)
+- [Adrian (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU)
+- [Jesse (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE)
 
-We ask that you take the following steps when dealing with technical questions...
+One-on-Ones are a safe space to talk about literally anything. Topics might include:
+- Code review
+- Discussing concepts covered in class
+- Talking about your career search
+- Thinking through project ideas
+- Generally shooting the breeze
+
+**It's up to you** what gets discussed during the one-on-ones, so please come with questions prepared!
+
+## Technical Help
+
+Outside of One-on-Ones, we ask that you take the following steps when dealing with technical questions..
 
 1. Try something else
 2. Google your exact problem or error
@@ -16,9 +31,9 @@ We ask that you take the following steps when dealing with technical questions..
 
 If your question is **non-technical** -- you're feeling overwhelmed, or you have questions about a homework or project prompt -- please reach out directly to an instructor as soon as possible.
 
-**After 6pm**, aside from during [office hours](office-hours.md), instructors may not be able to respond to technical questions until the following morning.
+**After 6pm**, aside from evening [office hours](office-hours.md), instructors may not be able to respond to technical questions until the following morning.
 
-## During Project Weeks
+##Project Weeks
 
 GitHub issues are the most useful method for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
 
