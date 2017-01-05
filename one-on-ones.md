@@ -1,6 +1,6 @@
 # One-on-Ones
 
-An instructor will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15-minute meetings by appointment.
+An instructor will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15 minute meetings by appointment. Please use the links below to schedule an appointment with an instructor.
 
 #### Sign-Up Links
 - [Nick (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M)
