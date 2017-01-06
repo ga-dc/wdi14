@@ -4,8 +4,6 @@
 
 Please make sure to read the [One on Ones guidelines](one-on-ones.md)!
 
-Outside of One-on-Ones, you can always ask any instructor any question over the course of the day. Slack is the most effective way to communicate with instructors.
-
 We ask that you take the following steps when dealing with technical questions...
 
 1. Try something else
