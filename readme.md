@@ -27,8 +27,6 @@
     - [WDI DC](https://WDI-dc.slack.com) - Our primary slack team
       - [#announcements](https://WDI-dc.slack.com/archives/announcements)
     - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
-    - [GA Immersive Students](https://ga-students.slack.com) - Every Immersive student ever at any campus
-      - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
 ## FAQs
 
