@@ -13,5 +13,4 @@
 - Attend the Student Spotlight
 - Create a GA Profile on [profiles.generalassemb.ly](http://profiles.generalassemb.ly)
 - Receive any Outcomes support
-- Participate in a group project during WDI
 - Be considered a graduate of this program
