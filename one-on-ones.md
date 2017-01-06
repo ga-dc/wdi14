@@ -1,6 +1,6 @@
 # One-on-Ones
 
-Two instructors will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15-minute meetings by appointment.
+Two instructors will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15-minute meetings by appointment. Students are required to schedule a one-on-one with an instructor of their choice at least once a month. 
 
 #### Sign-Up Links
 - [Adrian (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M)
