@@ -3,7 +3,9 @@
 ## Administrative
 
 - **[Graduation Requirements](graduation-requirements.md)**
-- **[Calendar](http://ga-dc.github.io/WDI14/)**
+- **Calendar:**
+ - [Tabs](https://ga-dc.github.io/cr5/#2017-01-06)  
+ - [Spaces](https://ga-dc.github.io/cr6/#2017-01-06)
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
