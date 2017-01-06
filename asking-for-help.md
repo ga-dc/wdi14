@@ -4,7 +4,7 @@
 
 Please make sure to read the [One on Ones guidelines](one-on-ones.md)!
 
-Outside of One on Ones, you can always ask any instructor any question over the course of the day. Slack is the most effective way to communicate with instructors.
+Outside of One-on-Ones, you can always ask any instructor any question over the course of the day. Slack is the most effective way to communicate with instructors.
 
 We ask that you take the following steps when dealing with technical questions...
 
@@ -16,7 +16,7 @@ We ask that you take the following steps when dealing with technical questions..
 
 If your question is **non-technical** -- you're feeling overwhelmed, or you have questions about a homework or project prompt -- please reach out directly to an instructor as soon as possible.
 
-**After 6pm**, aside from during [office hours](office-hours.md), instructors may not be able to respond to technical questions until the following morning.
+**After 5pm**, aside from during [office hours](office-hours.md), instructors may not be able to respond to technical questions until the following morning.
 
 ## During Project Weeks
 
@@ -29,6 +29,7 @@ I expected ___ to happen.
 ___ happened instead.
 My repo link is ___ and my question is about lines ___.
 ```
+
 
 [Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.)
 

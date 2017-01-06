@@ -12,7 +12,12 @@
 
 ## Due Dates and Grading
 
-- You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi14).
+- You will generally be assigned homework every day. Due dates can be found in the schedules for your designated classroom.
+
+  **[Tabs](https://ga-dc.github.io/cr5/#2017-01-06)**
+
+  **[Spaces](https://ga-dc.github.io/cr6/#2017-01-06)**
+
 
 - Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
@@ -27,7 +32,7 @@
   - **Incomplete:** something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
   - **Missing:** nothing was turned in.
 
-- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. If you wait until Thursday to turn everything in, you will have missed valuable opportunities to get on-track. We provide this flexibility to account for extenuating circumstances.
+- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. If you wait until the due date to turn everything in, you will have missed valuable opportunities to get on-track. We provide this flexibility to account for extenuating circumstances.
 
 - Feedback will not be given on assignments by an instructor unless you specifically request it. Requests for feedback, however, are encouraged. [See below for more details](#in-order-to-get-feedback-on-your-assignment).
 
@@ -41,11 +46,11 @@ On **every submission** -- that is, on every pull request (or, sometimes, issue)
 
 ...when submitting your pull request or issue, please...
 
-- Ask specific questions, **ending them with a question mark**. We receive *lots* of assignments, and we rely on questions marks to provide a visual cue that we should stop and address something!
+- Ask specific questions, **ending them with a question mark**. We receive *lots* of assignments, and we rely on questions marks to provide a visual cue that we should stop and address something! Be sure to point us to the lines of code where you encountered issues and what you've already tried to solve your problems.
 
   For example:
 
-  > Any thoughts as to why the method on line 49 kept returning 'NaN'?
+  > Any thoughts as to why the function on line 49 kept returning 'NaN'? I Googled the error and found that I need to convert my inputs to integers but I'm not sure where to apply the method. 
 
 ## The Submission Process
 
