@@ -2,7 +2,7 @@
 
 ## During Normal Weeks
 
-Please make sure to read the [One on Ones guidelines](one-on-ones.md)!
+Please make sure to read the [One-on-Ones guidelines](one-on-ones.md)!
 
 We ask that you take the following steps when dealing with technical questions...
 
