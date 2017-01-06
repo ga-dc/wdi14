@@ -32,7 +32,7 @@
   - **Incomplete:** something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
   - **Missing:** nothing was turned in.
 
-- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. If you wait until the due date to turn everything in, you will have missed valuable opportunities to get on-track. We provide this flexibility to account for extenuating circumstances.
+- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
 
 - Feedback will not be given on assignments by an instructor unless you specifically request it. Requests for feedback, however, are encouraged. [See below for more details](#in-order-to-get-feedback-on-your-assignment).
 
