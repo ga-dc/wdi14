@@ -11,6 +11,8 @@
 - [One-on-Ones](one-on-ones.md)
 - [Squads](squads.md)
 - [Office Hours](office-hours.md)
+- [Outcomes](https://github.com/ga-dc/outcomes)
+ - [Outcomes Roadmap](https://github.com/ga-dc/dc-outcomes/tree/master/roadmap)
 
 ## Curriculum
 
