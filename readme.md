@@ -26,7 +26,7 @@
 - Slack
   - You have been invited to three different slack teams:
     - [WDI DC](https://WDI-dc.slack.com) - Our primary slack team
-      - [#announcements](https://WDI-dc.slack.com/archives/announcements)
+      - [#announcements](https://wdi-dc.slack.com/messages/announcements/)
     - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
 
 ## FAQs
