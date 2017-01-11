@@ -11,13 +11,14 @@
 - [One-on-Ones](one-on-ones.md)
 - [Squads](squads.md)
 - [Office Hours](office-hours.md)
+- [Outcomes](https://github.com/ga-dc/outcomes)
 
 ## Curriculum
 
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
 - [Installfest](https://github.com/ga-dc/installfest)
-- [Outcomes Roadmap](https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit)
+- [Outcomes Roadmap](https://github.com/ga-dc/dc-outcomes/tree/master/roadmap)
 
 ## Communication
 
