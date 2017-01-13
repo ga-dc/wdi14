@@ -18,7 +18,7 @@
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
 - [Installfest](https://github.com/ga-dc/installfest)
-- [Outcomes Roadmap](https://github.com/ga-dc/dc-outcomes/tree/master/roadmap)
+- [Outcomes Roadmap](https://github.com/ga-dc/outcomes/tree/master/roadmap)
 
 ## Communication
 
