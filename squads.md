@@ -4,7 +4,7 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 
 ## Squad Rotations
 
-Squads will rotate between classrooms at the end of every unit,
+Squads will rotate between classrooms at the end of every unit.
 
 
 ### Unit 1
