@@ -2,64 +2,99 @@
 
 Each student will be assigned a squad. Each squad is led by an instructor and will be made up of 7-8 students. Squad meetings are an opportunity to get to know some of your fellow students better. Your squad instructor will be responsible for grading your homework assignments and projects. Feel free to reach out to them if you have any questions about the course.
 
-# Tabs (CR5)
+## Squad Rotations
 
+Squads will rotate between classrooms at the end of every unit,
+
+
+### Unit 1
+#### Tabs (in Classroom 5)
+Angel, Erik, James
+
+#### Spaces (in Classroom 6)
+Adrian, Andy, Nayana
+
+### Unit 2
+#### Tabs (in Classroom 5)
+Andy, Erik, James
+
+#### Spaces (in Classroom 6)
+Adrian, Angel, Nayana
+
+
+### Unit 3
+#### Tabs (in Classroom 5)
+Andy, Adrian, Angel
+
+#### Spaces (in Classroom 6)
+Erik, Nayana, James
+
+### Unit 4
+#### Tabs (in Classroom 5)
+Adrian, Andy, Nayana
+
+#### Spaces (in Classroom 6)
+Angel, Erik, James
+
+
+# Tabs (CR5)
 ## James
-- Biren Jaspal
-- Eva Lai
-- Maikel Nabil
-- Jared Edwards
+
+- Aaron Andrews
 - Travis Batts
-- Eric Green
+- Lisa Burr
 - Vince Campanale
 - Nyketha Lyken
+- Justin Giron
+- Benjamin Shapiro
+- Justin Shin
 
 ## Erik
-- Justin Shin
-- Aaron Andrews
-- Savraj Singh
-- Natasha Clark
-- Ashley Vest
+- Gurpeet Gill
+- Dominick Houston
+- Biren Jaspal
+- Kevin Keller
 - Erica Norby
-- Joseph Carroll
-- Taylor Scott
+- Collin O'Connell
+- Ashley Vest
+- Chris Wightman
 
 ## Angel
-- Benjamin Shapiro
-- Kevin Keller
-- Ebenezer Williams
-- Andy Flickinger
-- Cabral Sylvester
 - Francisco Caballero
+- Andy Flickinger
+- Eric Green
+- Eva Lai
 - Hannah Schuster
+- Cabral Sylvester
+- Ebenezer Williams
 
 # Spaces (CR6)
 
 ## Adrian
-- Dominick Houston
-- Gurpeet Gill
-- Bill Bobbitt
-- Wes Coffay
-- Samuel Clements
-- Nathaniel Carter
-- Elena Santana
 - Habtamu Abere
+- Bill Bobbitt
+- Nathaniel Carter
+- Natasha Clark
+- Samuel Clements
+- Wes Coffay
+- Elena Santana
+- Savraj Singh
 
 ## Nayana
-- Chris Wightman
-- Lisa Burr
-- Mana Eini
-- Adam Whitehurst
-- Fiona Nataprawira
-- Will Hawkins
-- Isaac Duarte
 - Rodney Curl
+- Isaac Duarte
+- Jared Edwards
+- Mana Eini
+- Will Hawkins
+- Maikel Nabil
+- Fiona Nataprawira
+- Adam Whitehurst
 
 ## Andy
-- Justin Giron
+- Joseph Carroll
 - Katherine Ehni
-- Collin O'Connell
-- Malcolm Johnson
-- Dan Lin
 - Bedig Galladian
 - Laura Goldstein
+- Malcolm Johnson
+- Dan Lin
+- Taylor Scott
