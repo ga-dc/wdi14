@@ -1,44 +1,40 @@
 # Homework
 
-- Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
+Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
 
-- Turn in **something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
+Turn in **something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
 
-- **Late homework will not be accepted**. If you have issues submitting homework please let us know.
+**Late homework will not be accepted**. If you have issues submitting homework please let us know.
 
-- You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
+You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
 
-- Each assignment will ask you to learn or research something that has explicitly not been covered in class. Learning how to learn is fundamental to becoming a successful developer.
+Each assignment will ask you to learn or research something that has explicitly not been covered in class. Learning how to learn is fundamental to becoming a successful developer.
 
 ## Due Dates and Grading
 
-- You will generally be assigned homework every day. Due dates can be found in the schedules for your designated classroom.
-
-  **[Tabs](https://ga-dc.github.io/cr5/#2017-01-06)**
-
-  **[Spaces](https://ga-dc.github.io/cr6/#2017-01-06)**
+You will generally be assigned homework every day. Due dates can be found in the schedules for your designated classroom.
+- **[Tabs](https://ga-dc.github.io/cr5/#2017-01-06) (CR5)**
+- **[Spaces](https://ga-dc.github.io/cr6/#2017-01-06) (CR6)**
 
 
-- Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
+Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
-- Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful.
+Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful.
 
-- Plagiarized homework will not be accepted.
+**Plagiarized homework will not be accepted.** Concerned about what is considered plagiarism? Consult an instructor.
 
-> Concerned about what is considered plagiarism? Consult an instructor.
+Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment...
+- **Complete:** something was turned in, and meaningful effort was made.
+- **Incomplete:** something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
+- **Missing:** nothing was turned in.
 
-- Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
-  - **Complete:** something was turned in, and meaningful effort was made.
-  - **Incomplete:** something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
-  - **Missing:** nothing was turned in.
+**We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
 
-- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
-
-- Feedback will not be given on assignments by an instructor unless you specifically request it. Requests for feedback, however, are encouraged. [See below for more details](#in-order-to-get-feedback-on-your-assignment).
+**Feedback will not be given on assignments by an instructor unless you specifically request it.** Requests for feedback, however, are encouraged. [See below for more details](#in-order-to-get-feedback-on-your-assignment).
 
 ## What to include with your submission
 
-On **every submission** -- that is, on every pull request (or, sometimes, issue) -- please include:
+On **every submission** -- that is, on every pull request (or, sometimes, issue) -- please include...
 - **Comfort score**, out of 5
 - **Completeness score**, out of 5
 
@@ -50,7 +46,7 @@ On **every submission** -- that is, on every pull request (or, sometimes, issue)
 
   For example:
 
-  > Any thoughts as to why the function on line 49 kept returning 'NaN'? I Googled the error and found that I need to convert my inputs to integers but I'm not sure where to apply the method. 
+  > Any thoughts as to why the function on line 49 kept returning 'NaN'? I Googled the error and found that I need to convert my inputs to integers but I'm not sure where to apply the method.
 
 ## The Submission Process
 
