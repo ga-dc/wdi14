@@ -2,13 +2,13 @@
 
 Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
 
-Turn in **something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
+**Turn in something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
 
 **Late homework will not be accepted**. If you have issues submitting homework please let us know.
 
 You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
 
-Each assignment will ask you to learn or research something that has explicitly not been covered in class. Learning how to learn is fundamental to becoming a successful developer.
+**Each assignment will ask you to learn or research something that has explicitly not been covered in class.** Learning how to learn is fundamental to becoming a successful developer.
 
 ## Due Dates and Grading
 
