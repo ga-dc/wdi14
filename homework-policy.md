@@ -19,7 +19,7 @@ You will generally be assigned homework every day. Due dates can be found in the
 
 Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
-Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful.
+**Homework is graded only on meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful.
 
 **Plagiarized homework will not be accepted.** Concerned about what is considered plagiarism? Consult an instructor.
 
