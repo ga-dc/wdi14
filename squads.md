@@ -84,7 +84,6 @@ Angel, Erik, James
 - Rodney Curl
 - Isaac Duarte
 - Jared Edwards
-- Mana Eini
 - Will Hawkins
 - Maikel Nabil
 - Fiona Nataprawira
