@@ -43,7 +43,6 @@ Angel, Erik, James
 - Aaron Andrews
 - Travis Batts
 - Lisa Burr
-- Vince Campanale
 - Nyketha Lyken
 - Justin Giron
 - Benjamin Shapiro
@@ -72,6 +71,7 @@ Angel, Erik, James
 
 ## Adrian
 - Habtamu Abere
+- Vince Campanale
 - Bill Bobbitt
 - Nathaniel Carter
 - Natasha Clark
