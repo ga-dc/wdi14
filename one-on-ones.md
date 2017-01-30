@@ -7,7 +7,7 @@ Two instructors will be available every Monday, Tuesday and Wednesday between 1:
 - [Erik (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUVYYk5kVmhaekU2fGRlZmF1bHR8NDA5MDFlNGVmN2YxYTlmMjAzYThiMjliYjMzZTA1MjE)
 - [James (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUhNWVBocGxkazdDfGRlZmF1bHR8NjE1YmE1ODUyNGNkNTgwMTg5OGE5MGUxN2MzOTU5MzU)
 - [Angel (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UU1zcTc3bXpsQW1HfGRlZmF1bHR8ZGQ3MTY1YTU4NmQ5OTYxMjU1NTM1ZDBiMTZmY2E1YzU)
-- [Nayana (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE)
+- [Nayana (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUlnakdPUlJhcWJQfGRlZmF1bHR8ZWI5YmQ4ZTdjMjYzMDJiOThlZmJlNTc5Yzc4NWQ3ZjY)
 - [Andy (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUlyUk9CTDkwazlEfGRlZmF1bHR8MzI5MzMyM2Y4YjkwM2IzZTI0YjYyZjliNjA4M2UxM2M)
 
 They're a safe space to talk about literally anything. One-on-Ones might include:
