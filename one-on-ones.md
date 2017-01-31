@@ -2,6 +2,8 @@
 
 Two instructors will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15-minute meetings by appointment. Students are required to schedule a one-on-one with an instructor of their choice at least once a month.
 
+Students may only sign up for one 1:1 meeting at a time. After that meeting takes place, you are welcome to sign up for another one.
+
 #### Sign-Up Links
 - [Adrian (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU)
 - [Erik (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUVYYk5kVmhaekU2fGRlZmF1bHR8NDA5MDFlNGVmN2YxYTlmMjAzYThiMjliYjMzZTA1MjE)
