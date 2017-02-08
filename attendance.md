@@ -6,6 +6,8 @@ You will take your own attendance through Garnet while on the `GA-Guest` wifi ne
 
 If today begins at 9:00AM, then any attendance taken at 9:01 will be considered "tardy". Attendance cannot be taken three hours after the start time. That is: if you try to take attendance at 12:01, you will be considered "absent".
 
+So as not to disrupt their peers, tardy students should wait until the 10 am morning lesson to enter the classrooms. The ONLY exception to this policy is when a checkpoint is being administered. If a student is up to 10 minutes late, they're asked to take the quiz in their assigned classroom. Otherwise, the checkpoint should be completed during lunch and the PR should be submitted no later than 2:30 pm. Tardies will still apply, but credit will be received for taking the checkpoint.
+
 **There are no exceptions, even if you forgot and the instructors saw you were here.**
 
 ## How To Remember To Check In
@@ -15,8 +17,6 @@ If today begins at 9:00AM, then any attendance taken at 9:01 will be considered 
 - Remind each other!
 
 Of course, Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. **If the instructors can do it, so can you!**
-
-So as not to disrupt their peers, tardy students should wait until the 10 am morning lesson to enter the classrooms. The ONLY exception to this policy is when a checkpoint is being administered. If a student is up to 10 minutes late, they're asked to take the quiz in their assigned classroom. Otherwise, the checkpoint should be completed during lunch and the PR should be submitted no later than 2:30 pm. Tardies will still apply, but credit will be received for taking the checkpoint.
 
 ## How to do it
 
