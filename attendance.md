@@ -16,7 +16,7 @@ If today begins at 9:00AM, then any attendance taken at 9:01 will be considered 
 
 Of course, Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. **If the instructors can do it, so can you!**
 
-If you do arrive late, we'll ask that you not enter the classrooms until they go on break. Having folks coming in late is a huge distraction to the instructors and students, and if you come in late but can still sneak in then it's kind of a slap in the face to the students who are here on-time.
+So as not to disrupt their peers, tardy students should wait until the 10 am morning lesson to enter the classrooms. The ONLY exception to this policy is when a checkpoint is being administered. If a student is up to 10 minutes late, they're asked to take the quiz in their assigned classroom. Otherwise, the checkpoint should be completed during lunch and the PR should be submitted no later than 2:30 pm. Tardies will still apply, but credit will be received for taking the checkpoint.
 
 ## How to do it
 
