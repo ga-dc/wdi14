@@ -1,11 +1,15 @@
+# Schedule of Head Shots
+
+> ### Protip: Use `⌘ + F` to find your name!
+
 |Time Slot|Name|
 |-------|-------|
 |1:15-1:20|Adam Whitehurst|
 |1:20-1:25|Andy Flickinger|
 |1:25-1:30|Bedig Galladian|
 |1:30-1:35|Bill Bobbitt|
-|1:35-1:40|Cabral sylvester|
-|1:40-1:45|Collin OConnell|
+|1:35-1:40|Cabral Sylvester|
+|1:40-1:45|Collin O'Connell|
 |1:45-1:50|Dan Lin|
 |1:50-1:55|Ebenezer Williams|
 |1:55-2:00|Elena Santana|
