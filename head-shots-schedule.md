@@ -1,6 +1,6 @@
 # Schedule of Head Shots
 
-> ### Protip: Use `⌘ + F` to find your name!
+> ### Protip: Use `⌘ + f` or `CRTL+f` to find your name!
 
 |Time Slot|Name|
 |-------|-------|
